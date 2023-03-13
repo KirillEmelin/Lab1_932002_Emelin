@@ -1,0 +1,11 @@
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\bin\Debug\ImModelLab1.exe.config
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\bin\Debug\ImModelLab1.exe
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\bin\Debug\ImModelLab1.pdb
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\obj\Debug\Lab1_Emelin.csproj.AssemblyReference.cache
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\obj\Debug\Lab1_Emelin.csproj.SuggestedBindingRedirects.cache
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\obj\Debug\Lab1_Emelin.Form1.resources
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\obj\Debug\ImModelLab1.Properties.Resources.resources
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\obj\Debug\Lab1_Emelin.csproj.GenerateResource.cache
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\obj\Debug\Lab1_Emelin.csproj.CoreCompileInputs.cache
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\obj\Debug\ImModelLab1.exe
+C:\Users\incog\OneDrive\Рабочий стол\Новая папка\932004.Khaustova.Laba1.Simulation-main\Lab1_Emelin\obj\Debug\ImModelLab1.pdb
